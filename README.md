@@ -8,6 +8,10 @@ Desde siempre he estado inmerso en el fascinante mundo de la tecnología, aunque
 Actualmente a realizar proyectos y CRUDs que faciliten mi ampliación en el mundo de la programación, implementando tecnologías como TypeScript y Nest.Js.
 
 **Qué tecnologías manejo?*
+-NestJs
+-NextJs
+-TailwindCSS
+-TypeScript
 -JavaScript
 -React
 -Redux Toolkit
@@ -16,6 +20,7 @@ Actualmente a realizar proyectos y CRUDs que faciliten mi ampliación en el mund
 -Express
 -Sequelize
 -Git
+-SCRUM
 
 **Aquí puedes contactarme!*
 Y contribuir juntos en proyectos que desafíen el ingenio
