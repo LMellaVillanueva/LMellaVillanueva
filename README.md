@@ -1,4 +1,4 @@
-*Hola! Soy Lucas, o mejor conocido como yo el Lukitas.
+*Hola! Mi nombre es Lucas, encantado que quieras saber de mí.
 
 **Quién Soy?*
 Soy un desarrollador Full Stack con más afinidad al Back-End. 
